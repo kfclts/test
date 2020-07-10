@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 # testabc
-=======
-# testxxx
->>>>>>> master
